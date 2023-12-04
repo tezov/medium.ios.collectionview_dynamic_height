@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:test_snapkit.xcodeproj">
+      location = "group:/Users/prive/local/medium/ios/collectionview_dynamic_height/collectionview_dynamic_height.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">

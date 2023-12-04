@@ -23,7 +23,7 @@
 		B69D8B343C891AECA8741493 /* Pods_test_snapkit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_test_snapkit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C79292282B1BE30E001D03C4 /* ItemVerySimple.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ItemVerySimple.xib; sourceTree = "<group>"; };
 		C792922A2B1BE32B001D03C4 /* ItemVerySimple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemVerySimple.swift; sourceTree = "<group>"; };
-		C7EFF7162B19227D00FD41D1 /* test_snapkit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test_snapkit.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C7EFF7162B19227D00FD41D1 /* collectionview_dynamic_height.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = collectionview_dynamic_height.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7EFF7192B19227D00FD41D1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C7EFF71B2B19227D00FD41D1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		C7EFF71D2B19227D00FD41D1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -88,7 +88,7 @@
 		C7EFF7172B19227D00FD41D1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C7EFF7162B19227D00FD41D1 /* test_snapkit.app */,
+				C7EFF7162B19227D00FD41D1 /* collectionview_dynamic_height.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -108,9 +108,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C7EFF7152B19227D00FD41D1 /* test_snapkit */ = {
+		C7EFF7152B19227D00FD41D1 /* collectionview_dynamic_height */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C7EFF72A2B19227F00FD41D1 /* Build configuration list for PBXNativeTarget "test_snapkit" */;
+			buildConfigurationList = C7EFF72A2B19227F00FD41D1 /* Build configuration list for PBXNativeTarget "collectionview_dynamic_height" */;
 			buildPhases = (
 				3DAC7F385CF1B4B2587DDEBC /* [CP] Check Pods Manifest.lock */,
 				C7EFF7122B19227D00FD41D1 /* Sources */,
@@ -122,9 +122,9 @@
 			);
 			dependencies = (
 			);
-			name = test_snapkit;
+			name = collectionview_dynamic_height;
 			productName = test_snapkit;
-			productReference = C7EFF7162B19227D00FD41D1 /* test_snapkit.app */;
+			productReference = C7EFF7162B19227D00FD41D1 /* collectionview_dynamic_height.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -142,7 +142,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C7EFF7112B19227D00FD41D1 /* Build configuration list for PBXProject "test_snapkit" */;
+			buildConfigurationList = C7EFF7112B19227D00FD41D1 /* Build configuration list for PBXProject "collectionview_dynamic_height" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -155,7 +155,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C7EFF7152B19227D00FD41D1 /* test_snapkit */,
+				C7EFF7152B19227D00FD41D1 /* collectionview_dynamic_height */,
 			);
 		};
 /* End PBXProject section */
@@ -438,7 +438,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C7EFF7112B19227D00FD41D1 /* Build configuration list for PBXProject "test_snapkit" */ = {
+		C7EFF7112B19227D00FD41D1 /* Build configuration list for PBXProject "collectionview_dynamic_height" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C7EFF7282B19227F00FD41D1 /* Debug */,
@@ -447,7 +447,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C7EFF72A2B19227F00FD41D1 /* Build configuration list for PBXNativeTarget "test_snapkit" */ = {
+		C7EFF72A2B19227F00FD41D1 /* Build configuration list for PBXNativeTarget "collectionview_dynamic_height" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C7EFF72B2B19227F00FD41D1 /* Debug */,

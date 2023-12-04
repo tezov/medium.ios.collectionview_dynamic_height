@@ -12,7 +12,7 @@ class ItemVerySimple : UICollectionViewCell {
 
     required init?(coder aDecoder: NSCoder) {
         super.init(coder: aDecoder)
-        fatalError("ItemVerySimple view can only instantiate with addNewViewTo static method")
+        fatalError("ItemVerySimple view can only instantiate by code")
     }
     
     override init(frame: CGRect) {
