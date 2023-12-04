@@ -1,0 +1,21 @@
+PODS:
+  - LoremIpsum (1.0.0)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - LoremIpsum (~> 1.0)
+  - SnapKit (~> 5.6.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SnapKit
+  trunk:
+    - LoremIpsum
+
+SPEC CHECKSUMS:
+  LoremIpsum: 9029c55d36501b2ee0b05cc9ecda11d3a0479160
+  SnapKit: 5737a8f4dc500ccbf1f4a8bca288f1d552b2770d
+
+PODFILE CHECKSUM: a638c41d686be970762efe7b4d48a767233628bb
+
+COCOAPODS: 1.14.2
